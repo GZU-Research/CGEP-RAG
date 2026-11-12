@@ -30,4 +30,4 @@ The default configuration is in [configs/paper_core.json](configs/paper_core.jso
 
 ## SMHQA
 
-The SMHQA annotations, source metadata, and corpus reconstruction scripts are planned for the next repository update.
+The [SMHQA dataset](SMHQA/) includes the corpus, source metadata, 35 evaluation questions, and gold document IDs.

@@ -1,0 +1,629 @@
+[
+  {
+    "_id": "q_000",
+    "gold_doc_ids": [
+      "smhqa_000078",
+      "smhqa_000239"
+    ],
+    "supporting_facts": [
+      [
+        "CrowdStrike to Acquire SGNL to Transform Identity Security for the AI Era",
+        0
+      ],
+      [
+        "SGNL",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_001",
+    "gold_doc_ids": [
+      "smhqa_000233",
+      "smhqa_000229"
+    ],
+    "supporting_facts": [
+      [
+        "CrowdStrike to Acquire Seraphic, Turning Any Browser into a Secure Enterprise Browser",
+        0
+      ],
+      [
+        "Seraphic Security secures $29 million Series A to transform any browser into a secure",
+        0
+      ],
+      [
+        "Seraphic Security secures $29 million Series A to transform any browser into a secure",
+        1
+      ]
+    ]
+  },
+  {
+    "_id": "q_002",
+    "gold_doc_ids": [
+      "smhqa_000034",
+      "smhqa_000019"
+    ],
+    "supporting_facts": [
+      [
+        "NVIDIA and CoreWeave Strengthen Collaboration to Accelerate Buildout of AI Factories",
+        0
+      ],
+      [
+        "How Scrappy Cryptominer CoreWeave Transformed Into the Multibillion-Dollar Backbone of the AI Boom",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_003",
+    "gold_doc_ids": [
+      "smhqa_000293",
+      "smhqa_000093"
+    ],
+    "supporting_facts": [
+      [
+        "Seven missions launched to test optimised data transfer from space",
+        0
+      ],
+      [
+        "EDGX",
+        0
+      ],
+      [
+        "Seven missions launched to test optimised data transfer from space",
+        1
+      ]
+    ]
+  },
+  {
+    "_id": "q_004",
+    "gold_doc_ids": [
+      "smhqa_000123",
+      "smhqa_000206"
+    ],
+    "supporting_facts": [
+      [
+        "The Canadian Opera Company appoints Ian Derrer as next General Director",
+        0
+      ],
+      [
+        "Ian Derrer to lead The Dallas Opera",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_005",
+    "gold_doc_ids": [
+      "smhqa_000151",
+      "smhqa_000118"
+    ],
+    "supporting_facts": [
+      [
+        "Appointment of Semyon Bychkov as Music Director of the Opéra national de Paris",
+        0
+      ],
+      [
+        "Semyon Bychkov: Conductor of the Year",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_006",
+    "gold_doc_ids": [
+      "smhqa_000099",
+      "smhqa_000090"
+    ],
+    "supporting_facts": [
+      [
+        "Ex Cathedra announces James Burton as next Artistic Director succeeding founder Jeffrey Skidmore after 57 years",
+        0
+      ],
+      [
+        "James Burton",
+        0
+      ],
+      [
+        "James Burton",
+        3
+      ]
+    ]
+  },
+  {
+    "_id": "q_007",
+    "gold_doc_ids": [
+      "smhqa_000283",
+      "smhqa_000222"
+    ],
+    "supporting_facts": [
+      [
+        "Park Avenue Armory Appoints Deborah Warner as New Artistic Director",
+        0
+      ],
+      [
+        "Deborah Warner",
+        0
+      ],
+      [
+        "Deborah Warner",
+        1
+      ]
+    ]
+  },
+  {
+    "_id": "q_008",
+    "gold_doc_ids": [
+      "smhqa_000101",
+      "smhqa_000038"
+    ],
+    "supporting_facts": [
+      [
+        "Liam Rosenior appointed Chelsea head coach",
+        0
+      ],
+      [
+        "Leroy and Liam Rosenior",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_009",
+    "gold_doc_ids": [
+      "smhqa_000188",
+      "smhqa_000108"
+    ],
+    "supporting_facts": [
+      [
+        "Park Chan-wook, President of the Jury of the 79th Festival de Cannes",
+        0
+      ],
+      [
+        "PARK Chan-kyong Comes Back with MANSHIN: TEN THOUSANDS SPIRITS",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_010",
+    "gold_doc_ids": [
+      "smhqa_000278",
+      "smhqa_000225"
+    ],
+    "supporting_facts": [
+      [
+        "Microsoft Gaming — leadership announcement of February 2026",
+        0
+      ],
+      [
+        "Asha Sharma — Carlson School alumni profile",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_011",
+    "gold_doc_ids": [
+      "smhqa_000160",
+      "smhqa_000042"
+    ],
+    "supporting_facts": [
+      [
+        "Game of the Year at The Game Awards 2025",
+        0
+      ],
+      [
+        "Development of Clair Obscur: Expedition 33",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_012",
+    "gold_doc_ids": [
+      "smhqa_000168",
+      "smhqa_000286"
+    ],
+    "supporting_facts": [
+      [
+        "Apple — Q.ai acquisition",
+        0
+      ],
+      [
+        "Apple — Q.ai acquisition",
+        1
+      ],
+      [
+        "Aviad Maizels — education and earlier ventures",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_013",
+    "gold_doc_ids": [
+      "smhqa_000196",
+      "smhqa_000253"
+    ],
+    "supporting_facts": [
+      [
+        "Disney — chief executive succession announced in February 2026",
+        0
+      ],
+      [
+        "Josh D'Amaro — career before the Disneyland presidency",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_014",
+    "gold_doc_ids": [
+      "smhqa_000213",
+      "smhqa_000070"
+    ],
+    "supporting_facts": [
+      [
+        "Sony — proposed home entertainment joint venture",
+        0
+      ],
+      [
+        "TCL Electronics Holdings Limited — corporate information",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_015",
+    "gold_doc_ids": [
+      "smhqa_000064",
+      "smhqa_000227"
+    ],
+    "supporting_facts": [
+      [
+        "Netflix — InterPositive acquisition and advisory appointment",
+        0
+      ],
+      [
+        "Ben Affleck — feature directing career",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_016",
+    "gold_doc_ids": [
+      "smhqa_000175",
+      "smhqa_000184"
+    ],
+    "supporting_facts": [
+      [
+        "Holberg and Nils Klim Prizes — 2026 announcement",
+        0
+      ],
+      [
+        "Lyndal Roper — Australian women’s history encyclopedia",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_017",
+    "gold_doc_ids": [
+      "smhqa_000244",
+      "smhqa_000303"
+    ],
+    "supporting_facts": [
+      [
+        "Japan Prize — 2026 laureate announcement",
+        0
+      ],
+      [
+        "Japan Prize — 2026 laureate announcement",
+        1
+      ],
+      [
+        "Cynthia Dwork — Princeton education and career profile",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_018",
+    "gold_doc_ids": [
+      "smhqa_000237",
+      "smhqa_000251"
+    ],
+    "supporting_facts": [
+      [
+        "ACM Turing Award — March 2026 announcement",
+        0
+      ],
+      [
+        "ACM Turing Award — March 2026 announcement",
+        1
+      ],
+      [
+        "Charles Bennett — IBM Research biography",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_019",
+    "gold_doc_ids": [
+      "smhqa_000124",
+      "smhqa_000074"
+    ],
+    "supporting_facts": [
+      [
+        "Manchester United — January 2026 head-coach appointment",
+        0
+      ],
+      [
+        "Michael Carrick — playing career and autobiography",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_020",
+    "gold_doc_ids": [
+      "smhqa_000190",
+      "smhqa_000032"
+    ],
+    "supporting_facts": [
+      [
+        "Real Madrid — January 2026 first-team coach announcement",
+        0
+      ],
+      [
+        "Álvaro Arbeloa — Liverpool playing career",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_021",
+    "gold_doc_ids": [
+      "smhqa_000166",
+      "smhqa_000177"
+    ],
+    "supporting_facts": [
+      [
+        "Tottenham Hotspur — March 2026 head-coach appointment",
+        0
+      ],
+      [
+        "Roberto De Zerbi — playing career and first coaching posts",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_022",
+    "gold_doc_ids": [
+      "smhqa_000226",
+      "smhqa_000180"
+    ],
+    "supporting_facts": [
+      [
+        "Esa-Pekka Salonen lands new Boston Symphony Orchestra role",
+        0
+      ],
+      [
+        "Esa-Pekka Salonen — musical background",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_023",
+    "gold_doc_ids": [
+      "smhqa_000069",
+      "smhqa_000165"
+    ],
+    "supporting_facts": [
+      [
+        "2026 Canada Gairdner Awards announcement",
+        0
+      ],
+      [
+        "2026 Canada Gairdner Awards announcement",
+        1
+      ],
+      [
+        "Wolfgang Baumeister — Max Planck CV",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_024",
+    "gold_doc_ids": [
+      "smhqa_000191",
+      "smhqa_000092"
+    ],
+    "supporting_facts": [
+      [
+        "Phoenix Symphony names its next music director in 2026",
+        0
+      ],
+      [
+        "Paolo Bortolameolli — LA Phil artist profile",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_025",
+    "gold_doc_ids": [
+      "smhqa_000104",
+      "smhqa_000075"
+    ],
+    "supporting_facts": [
+      [
+        "Salesforce announces Cimulate acquisition agreement",
+        0
+      ],
+      [
+        "Cimulate — Sierra Ventures investment profile, 2024",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_026",
+    "gold_doc_ids": [
+      "smhqa_000200",
+      "smhqa_000178"
+    ],
+    "supporting_facts": [
+      [
+        "Ohio State — presidential appointment in March 2026",
+        0
+      ],
+      [
+        "Ravi Bellamkonda — Emory career biography, 2021",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_027",
+    "gold_doc_ids": [
+      "smhqa_000009",
+      "smhqa_000117"
+    ],
+    "supporting_facts": [
+      [
+        "Columbia — president-designate announcement in January 2026",
+        0
+      ],
+      [
+        "Jennifer Mnookin — UCLA faculty career profile",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_028",
+    "gold_doc_ids": [
+      "smhqa_000292",
+      "smhqa_000198"
+    ],
+    "supporting_facts": [
+      [
+        "Syracuse — chancellor appointment announced in March 2026",
+        0
+      ],
+      [
+        "Michael Haynie — University of Delaware alumni profile",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_029",
+    "gold_doc_ids": [
+      "smhqa_000027",
+      "smhqa_000002"
+    ],
+    "supporting_facts": [
+      [
+        "Trinity International University — presidential appointment in 2026",
+        0
+      ],
+      [
+        "Eric Halvorson — corporate proxy biography, 2004",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_030",
+    "gold_doc_ids": [
+      "smhqa_000023",
+      "smhqa_000059"
+    ],
+    "supporting_facts": [
+      [
+        "Nashville Symphony — music director appointed in February 2026",
+        0
+      ],
+      [
+        "Leonard Slatkin — Pittsburgh Symphony biography for 2017–18",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_031",
+    "gold_doc_ids": [
+      "smhqa_000084",
+      "smhqa_000005"
+    ],
+    "supporting_facts": [
+      [
+        "Cal Poly Pomona — president appointed in March 2026",
+        0
+      ],
+      [
+        "Vanya Quiñones — Cal State Monterey Bay profile, 2022",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_032",
+    "gold_doc_ids": [
+      "smhqa_000134",
+      "smhqa_000161"
+    ],
+    "supporting_facts": [
+      [
+        "GSK — RAPT acquisition agreement, January 2026",
+        0
+      ],
+      [
+        "RAPT Therapeutics — 2024 annual report",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_033",
+    "gold_doc_ids": [
+      "smhqa_000122",
+      "smhqa_000182"
+    ],
+    "supporting_facts": [
+      [
+        "Gilead — Arcellx acquisition agreement, February 2026",
+        0
+      ],
+      [
+        "Arcellx — 2024 annual report",
+        0
+      ]
+    ]
+  },
+  {
+    "_id": "q_034",
+    "gold_doc_ids": [
+      "smhqa_000068",
+      "smhqa_000296"
+    ],
+    "supporting_facts": [
+      [
+        "Lilly — Ventyx acquisition agreement, January 2026",
+        0
+      ],
+      [
+        "Ventyx Biosciences — 2024 annual report",
+        0
+      ]
+    ]
+  }
+]
