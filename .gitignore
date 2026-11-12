@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+
+# Local configuration
+.env
+.env.*
+!.env.example
+.envrc
+
+# Model caches and inference output
+.cache/
+model_cache/
+outputs/
+*.log
+
+# Editor files
+.idea/
+.vscode/
+.DS_Store

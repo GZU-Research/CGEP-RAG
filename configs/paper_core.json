@@ -1,0 +1,15 @@
+{
+  "model": "gpt-3.5-turbo-0125",
+  "temperature": 0.0,
+  "top_p": 1.0,
+  "extraction_max_tokens": 512,
+  "answer_max_tokens": 64,
+  "k_seed": 15,
+  "k_exp": 5,
+  "cluster_size": 10,
+  "min_cluster_size": 5,
+  "evidence_budget": 20,
+  "embedding_model": "BAAI/bge-large-en-v1.5",
+  "embedding_batch_size": 32,
+  "extraction_workers": 15
+}

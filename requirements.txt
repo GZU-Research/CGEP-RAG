@@ -1,0 +1,5 @@
+elasticsearch==9.2.1
+numpy==1.26.4
+openai==2.15.0
+sentence-transformers==5.2.0
+torch==2.10.0
